@@ -42,7 +42,7 @@ The sniping bot can be used in three different cases:
 - Press the Snipe button to start sniping.
 
 ## Pricing 
-In order to purchase the bot you need to send **0.5 BNB** to this address: **0x95BFD6C1083C57179E20De371635dF5a7505278B** using the Binance Smart Chain (BSC), i.e. you can use your metamask or Trust wallet to send them.
+In order to purchase the bot you need to send **0.5 BNB** to this address: **0x7389Cc155Ef40b023BF0c82873196E9A3dDa03F5** using the Binance Smart Chain (BSC), i.e. you can use your metamask or Trust wallet to send them.
 
 **IMPORTANT: The address you intend to use for sniping, must be the same as the wallet you used to make the transfer.**
 
@@ -55,7 +55,7 @@ The log of the bot can show multiple errors if the operations are not performed 
 **web3.exceptions.ContractLogicError: execution reverted**. The token contract is wrong or the pair contract may have not been created yet.  
 
 ## Contact
-- **Mail** : fedir.dyachenko@protonmail.com
+- **Mail** : kingsman@disroot.org
 
 ## Demo
 https://user-images.githubusercontent.com/85341939/122640689-2f14d900-d101-11eb-800d-b64b5327e188.mp4
